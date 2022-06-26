@@ -1,0 +1,30 @@
+/* ***************************** Tag Selectors ************************** */
+
+h1{
+    color: red;
+    font-size: 200px;
+}
+
+/* :hover is a pseudo class  */
+
+img:hover{
+    background-color: gold;
+}
+
+/* ***************************** Class Selectors ************************** */
+
+.bacon{
+    background-color: green;
+}
+.broccoli{
+    background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
+
+/* ***************************** Class Selectors ************************** */
+
+#heading{
+    color: blue;
+}
