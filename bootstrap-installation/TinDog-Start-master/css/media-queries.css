@@ -1,0 +1,41 @@
+
+/*
+
+            ---------------------------------------
+
+                         Media Queries
+
+                        Media Query Format 
+                    @media <type> <feature>
+
+                    
+            ---------------------------------------
+
+*/
+
+@media (max-width: 1435px) {
+    #title {
+        text-align: center;
+    }
+
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+@media (max-width: 1227px) {
+    .title-image {
+        /* width: 120%; */
+        /* height: 100%; */
+        padding-top: 100px;
+        padding-left: 90px;
+    }
+}
+
+@media (max-width: 991px) {
+    .title-image {
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+}
