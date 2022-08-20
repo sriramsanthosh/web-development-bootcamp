@@ -10,4 +10,4 @@
 
 3. **Site made using HTML, CSS and Bootstrap**
 
-	https://sriramsanthosh.github.io/TinDog-Start-master/
+	https://sriramsanthosh.github.io/TinDog/
